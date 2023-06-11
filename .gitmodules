@@ -1,0 +1,6 @@
+[submodule "ai-parser"]
+	path = ai-parser
+	url = https://github.com/KStasi/promptdefi-ai-parser.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Digberi/promptdefi-web.git
